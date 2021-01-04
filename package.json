@@ -1,0 +1,14 @@
+{
+  "name": "proshop_traversy_mern_ecommerce",
+  "version": "1.0.0",
+  "description": "MERN shopping cart app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "author": "Sern Scripts",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
